@@ -1,0 +1,66 @@
+name: ayanna.bauch
+description: logistical
+version: 0.0.1
+author: wyoxfcco.jzohlkdh@2jc2h87e.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: ayannabauch
+  parentArtefactID: wyoxfccojzohlkdh2jc2h87ecomteam
+  buildSystem: maven
+  author: null
+  createdAt: '2025-09-19 23:36:31'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: 2.12.15
+  gemLibsVersion: 1.1.26
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2025-09-19 23:36:31'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2025-09-19T23:36:31.223073Z'
+  name: plibMaven
+  version: 8.14.0-SNAPSHOT
+  id: '1485784591'
+  createdAt: '2025-09-19T23:36:31.223073Z'
+  type: plibMaven
+projectDependencies:
+  '353':
+    projectUID: 353
+    projectName: alex.ward
+    repositoryPath: gitUri=http://gitserver:3000/dev_OMT2cU2Z_team_588/dev_OMT2cU2Z_project_353.git&subPath=
+    version: alex.ward/0.8.6.585
+    isDefault: false
+    author: null
+    createdAt: '2025-09-19 23:36:27'
+  '361':
+    projectUID: 361
+    projectName: guillermo.bradtke
+    repositoryPath: gitUri=http://gitserver:3000/dev_OMT2cU2Z_team_588/dev_cKQICfbx_project_361.git&subPath=
+    version: guillermo.bradtke/0.01.71
+    isDefault: false
+    author: null
+    createdAt: '2025-09-19 23:36:31'
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
+projectConfigurations: {}
